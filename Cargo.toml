@@ -1,0 +1,11 @@
+[package]
+name = "drwadextractor"
+version = "0.1.0"
+authors = ["breadbyte <14045257+breadbyte@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+indicatif = "0.15.0"
+clap = "3.0.0-beta.2"
