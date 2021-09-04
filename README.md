@@ -1,5 +1,7 @@
 # drwadextractor
 
+a .wad extractor for DR1 and DR2
+
 ```
 USAGE:
     drwadextractor.exe [OPTIONS] --wad-file <wad-file>
